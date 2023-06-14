@@ -1,0 +1,76 @@
+/*====================Secao Tags====================*/
+body {
+    text-align:center;
+    margin: 0;
+    font-family: 'Merriweather',serif;
+    color: #8A1538;
+}
+h3 {
+    text-align: left;
+    margin: 100;
+    font-family: 'Merriweather',serif;
+    color: #8A1538;
+
+}
+ol {
+    text-align:left;
+    background-color: white;
+    position: center;
+    padding-top: 2px; 
+}
+ul {
+    text-align:left;
+    background-color: white;
+    position: center;
+    padding-top: 2px;
+}
+.top {
+    text-align:center;
+    background-color: white;
+    position: center;
+    padding-top: 2px;   
+}
+h1 {
+    text-align: left;
+    font-family: 'Sacramento',cursive;
+    font-size: 50px;
+    margin: 0 auto 0 auto;
+    color: #8A1538;
+}
+.titulo { 
+    margin: 100;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    color: #8A1538;
+}
+.cias {
+    text-align:left;
+    background-color: white;
+    position: center;
+    padding-top: 2px; 
+}
+
+
+/*====================Secao Classes====================*/
+
+.heading{
+    background-color: white;
+    position: relative;
+    padding-top: 100px;   
+}
+
+.efeito {
+    text-decoration: underline;
+}
+
+.mea {
+    position: absolute; 
+    right: 10px;
+    top: 30px; 
+    size: 100px;
+}
+
+.mea {position:absolute;
+    left: -100px;
+    bottom: 0px;
+}
